@@ -16,6 +16,21 @@ abbr.name{
 	white-space: nowrap;
 }
 
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure + p{
+	text-indent: 0;
+}
+
 .signature{
 	font-variant: small-caps;
 	text-align: right;
