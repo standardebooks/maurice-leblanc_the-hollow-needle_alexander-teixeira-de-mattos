@@ -15,3 +15,22 @@ blockquote header{
 abbr.name{
 	white-space: nowrap;
 }
+
+.signature{
+	font-variant: small-caps;
+	text-align: right;
+}
+
+[epub|type~="z3998:recipient"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+}
+
+blockquote header p,
+[epub|type~="z3998:postscript"],
+[epub|type~="z3998:recipient"] + p{
+	text-indent: 0;
+}
