@@ -6,14 +6,23 @@ b{
 	font-variant: small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 blockquote header{
 	font-variant: small-caps;
 	text-align: center;
 	margin-bottom: 1em;
 }
 
-abbr.name{
-	white-space: nowrap;
+blockquote header p{
+	text-indent: 0;
+}
+
+blockquote header b{
+	display: block;
+	margin-bottom: 1em;
 }
 
 figure{
@@ -49,7 +58,6 @@ span[epub|type~="subtitle"]{
 	margin-top: 1em;
 }
 
-blockquote header p,
 [epub|type~="z3998:postscript"],
 [epub|type~="z3998:recipient"] + p{
 	text-indent: 0;
