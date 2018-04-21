@@ -62,3 +62,10 @@ span[epub|type~="subtitle"]{
 [epub|type~="z3998:recipient"] + p{
 	text-indent: 0;
 }
+
+/* chapter 4 */
+
+#grand-journal-introduction b{
+	display: block;
+	text-align: center;
+}
