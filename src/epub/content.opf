@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/maurice-leblanc/the-hollow-needle/alexander-teixeira-de-mattos</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-04-26T22:14:35Z</dc:date>
+		<meta property="dcterms:modified">2018-04-26T22:14:35Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,16 +38,16 @@
 		<dc:description id="description">The famous gentleman-thief plans his most audacious crime yet: to steal the lost treasures of France.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In this first full-length Arsène Lupin novel the gentleman-thief remains a shadowy figure for most of the novel, working two steps beyond the law with a hidden aim. To fight against this anti-hero, Leblanc introduces Isidore Beautrelet, the prodigious school-boy detective. Also making an appearance are old foes Detective Ganimard and (in yet another copyright defeating name change) Holmlock Shears. The battle of wills that ensues pulls Isidore through rural France as he tries to get to the bottom of Lupin’s motives.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Hollow Needle&lt;/i&gt; was originally serialised in the magazine &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1908 to 1909, and was translated into English in 1910. Arsène Lupin starred in many further stories and plays, and a direct sequel to this story, &lt;i xml:lang="fr"&gt;Le second visage d’Arsène Lupin&lt;/i&gt;, was written by Pierre Boileau and Pierre Ayraud in 1975.&lt;/p&gt;
+			&lt;p&gt;In this first full-length Arsène Lupin novel the gentleman-thief remains a shadowy figure for most of the novel, working two steps beyond the law with a hidden aim. To fight against this anti-hero, Leblanc introduces Isidore Beautrelet, the prodigious school-boy detective. Also making an appearance are old foes Detective Ganimard and (in yet another copyright-defeating name change) Holmlock Shears. The battle of wills that ensues pulls Isidore through rural France as he tries to get to the bottom of Lupin’s motives.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Hollow Needle&lt;/i&gt; was originally serialized in the magazine &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1908 to 1909, and was translated into English in 1910. Arsène Lupin starred in many further stories and plays, and a direct sequel to this story, &lt;i xml:lang="fr"&gt;Le second visage d’Arsène Lupin&lt;/i&gt;, was written by Pierre Boileau and Pierre Ayraud in 1975.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4017</dc:source>
 		<dc:source>https://archive.org/details/hollowneedleana00leblgoog</dc:source>
 		<meta property="se:production-notes">The original Gutenberg text stripped all accents. They’ve been manually reinstated, but it’s possible that several are missing.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">66300</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hollow_Needle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-hollow-needle_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
@@ -93,6 +93,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
