@@ -26,22 +26,22 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Hollow Needle</dc:title>
 		<meta property="file-as" refines="#title">Hollow Needle, The</meta>
 		<dc:subject id="subject-1">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4017</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4017</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2009117895</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010100204</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<dc:description id="description">The famous gentleman-thief plans his most audacious crime yet: to steal the lost treasures of France.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In this first full-length Arsène Lupin novel the gentleman-thief remains a shadowy figure for most of the novel, working two steps beyond the law with a hidden aim. To fight against this anti-hero, Leblanc introduces Isidore Beautrelet, the prodigious school-boy detective. Also making an appearance are old foes Detective Ganimard and (in yet another copyright-defeating name change) Holmlock Shears. The battle of wills that ensues pulls Isidore through rural France as he tries to get to the bottom of Lupin’s motives.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Hollow Needle&lt;/i&gt; was originally serialized in the magazine &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1908 to 1909, and was translated into English in 1910. Arsène Lupin starred in many further stories and plays, and a direct sequel to this story, &lt;i xml:lang="fr"&gt;Le second visage d’Arsène Lupin&lt;/i&gt;, was written by Pierre Boileau and Pierre Ayraud in 1975.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4017</dc:source>
 		<dc:source>https://archive.org/details/hollowneedleana00leblgoog</dc:source>
