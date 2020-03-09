@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4017</dc:source>
 		<dc:source>https://archive.org/details/hollowneedleana00leblgoog</dc:source>
 		<meta property="se:production-notes">The original Gutenberg text stripped all accents. They’ve been manually reinstated, but it’s possible that several are missing.</meta>
-		<meta property="se:word-count">66301</meta>
+		<meta property="se:word-count">66307</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hollow_Needle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-hollow-needle_alexander-teixeira-de-mattos</meta>
