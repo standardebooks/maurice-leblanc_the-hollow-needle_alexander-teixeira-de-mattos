@@ -44,11 +44,6 @@ figure + p{
 	text-align: right;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
 }
