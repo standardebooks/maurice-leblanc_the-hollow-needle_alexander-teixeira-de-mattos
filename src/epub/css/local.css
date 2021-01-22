@@ -35,10 +35,6 @@ figure img{
 	max-width: 100%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 	text-align: right;
