@@ -24,8 +24,8 @@ blockquote ul{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
-	padding: 0 2em;
 	text-align: center;
 }
 
