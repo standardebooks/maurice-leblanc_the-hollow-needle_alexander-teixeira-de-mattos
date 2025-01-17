@@ -58,3 +58,12 @@ figure img{
 	display: block;
 	text-align: center;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
+
+[epub|type~="z3998:letter"] header{
+	margin-bottom: 1em;
+	text-align: right;
+}
